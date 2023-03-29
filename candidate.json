@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Adolf",
+    "picture" : "https://ru.freepik.com/free-photo/white-t-shirts-with-copy-space-on-gray-background_15667327.htm#&position=0&from_view=popular",
+    "position" : " Разработчик Go",
+    "gender" : "male",
+    "age" : 40,
+    "skills" :"Go, Python"
+  },
+  {
+    "id": 2,
+    "name": "Iosif",
+    "picture" : "https://ru.freepik.com/free-psd/book-mockups-psd-editable-color-changeable-design_18995720.htm#from_view=detail_author",
+    "position" : " Разработчик pascal",
+    "gender" : "male",
+    "age" : 55,
+    "skills" :"pascal, basic"
+  },
+  {
+    "id": 3,
+    "name": "Elena",
+    "picture" : "https://ru.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_3413202.htm#from_view=detail_author",
+    "position" : " team lead ",
+    "gender" : "Female",
+    "age" : 55,
+    "skills" :"Django, Flask"
+  }
+]
